@@ -40,7 +40,8 @@ Make an AI. What it can do is not yet fully planned.
 ---
 
 ### Final Goal
-Take over the universe, by using the powers of the AI!
+~~Take over the universe, using the power of the AI!~~
+Nothing to see here.
 #### Done: []
 
 ---
