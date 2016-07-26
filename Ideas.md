@@ -31,3 +31,10 @@ Make an bot using https://dev.botframework.com/ . In the start it should only us
 #### Done: []
 
 ---
+
+### 5. Idea
+DoggyCraft App
+##### Started: []
+#### Done: []
+
+---
