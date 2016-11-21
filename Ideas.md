@@ -20,8 +20,8 @@ AR app with the buildings from Doggycraft.
 
 ### 3. Idea
 Web Crawler.
-##### Started: []
-#### Done: []
+##### Started: [x]
+#### Done: [x]
 
 ---
 
@@ -34,6 +34,13 @@ Make an bot using https://dev.botframework.com/ . In the start it should only us
 
 ### 5. Idea
 DoggyCraft App
+##### Started: []
+#### Done: []
+
+---
+
+### 6. Idea
+Elytra Quidditch Plugin
 ##### Started: []
 #### Done: []
 
